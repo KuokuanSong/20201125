@@ -11,6 +11,7 @@ public class Demo {
         while (true) {
             System.out.println(new Random().toString());
             System.out.println("One");
+            System.out.println("three");
         }
     }
 }
